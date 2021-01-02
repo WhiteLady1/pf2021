@@ -1,12 +1,6 @@
-# Project Starters
+# O projektu
+PF 2021 je stránka s jednoduchým PF pro rok 2021. Vznikla pro soutěž o mentoring od komunity Reactgirls Prague.
 
-Základní nastavení projektu pro Reactovou webovou aplikaci s Webpackem.
+# Technologie
+Stránka ve psána v Reactu, pro stylování byl použit Styled-component
 
-## Vývoj
-
-1. Nainstalujte závislosti příkazem `npm install`.
-1. Spusťte watch s dev serverem příkazem `npm run start`.
-
-## Produkční sestavení
-
-Pro produkční sestavení pusťte příkaz `npm run build`.
