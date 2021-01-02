@@ -4,6 +4,7 @@ const GlobalStyle = createGlobalStyle`
 body{
   font-family: 'Montserrat', sans-serif;
   background-color:RGB(249,250,252);
+  color:#FFF6D2;
 }
 h1, h2, h3{
   font-family: 'Dancing Script', cursive;
