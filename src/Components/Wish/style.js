@@ -42,6 +42,7 @@ export const Icons = styled.div`
   }
   display: flex;
   justify-content: center;
+  margin-top: 50px;
   font-size: 25px;
   a {
     padding: 10px;
