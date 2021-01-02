@@ -41,4 +41,7 @@ export const Icons = styled.div`
   a {
     padding: 10px;
   }
+  p {
+    font-size: 15px;
+  }
 `;

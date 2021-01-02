@@ -12,7 +12,7 @@ const Wish = () => {
           <h1>Šťastný Nový rok 2021</h1>
           <p>
             Všem nadšencům přeji v Novém roce pozitivní myšlení, spoustu radosti
-            z programování, hodně zdraví a sil pro objevování tajů Reactu!
+            z programování a hodně zdraví a sil pro React!
           </p>
         </Wishtext>
         <Icons>
