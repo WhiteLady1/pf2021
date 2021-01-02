@@ -2,6 +2,9 @@ import styled from 'styled-components';
 import img from '../../img/podklad.jpg';
 
 export const WishDiv = styled.div`
+  @media (max-width: 600px) {
+    height: 100vh;
+  }
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -33,15 +36,14 @@ export const Wishtext = styled.div`
 `;
 
 export const Icons = styled.div`
+  @media (max-width: 600px) {
+    font-size: 30px;
+    margin-top: 0px;
+  }
   display: flex;
   justify-content: center;
-  margin-top: 50px;
-  padding-left: 20px;
   font-size: 25px;
   a {
     padding: 10px;
-  }
-  p {
-    font-size: 15px;
   }
 `;

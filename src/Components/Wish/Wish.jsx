@@ -16,7 +16,7 @@ const Wish = () => {
           </p>
         </Wishtext>
         <Icons>
-          <a href="" target="_blank">
+          <a href="https://pf2021.netlify.app/" target="_blank">
             <Icon icon={githubIcon} style={{ color: '#FFF6D2' }} />
           </a>
           <a href="mailto: blanka.seman@gmail.com" target="_blank">
